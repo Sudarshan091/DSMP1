@@ -2,7 +2,7 @@
 A comprehensive 36-week journey to mastering Data Science and Machine Learning. This repository serves as a weekly log of sessions, exercises, and projects.
 
 ## 📊 Progress Tracker
-**Current Status:** Week 03 / 36  
+**Current Status:** Week 04 / 36  
 [▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 8% Completed
 
 - **Next Milestone:** Week 10 (Completion of Advanced Python & Logic)
