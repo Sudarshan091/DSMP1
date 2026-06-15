@@ -22,4 +22,4 @@ p2 = Point(5, 1)
 # Using the overloaded '+' operator
 p3 = p1 + p2
 
-print(p3)  # Output: Point(7, 5)
+print(p3)  # Output: Point(7, 5) 
