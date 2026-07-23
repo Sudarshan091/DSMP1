@@ -1,38 +1,46 @@
-# Data Science Mentorship Program (DSMP) 2022-23
-A comprehensive 36-week journey to mastering Data Science and Machine Learning. This repository serves as a weekly log of sessions, exercises, and projects.
+# Machine Learning Engineering Foundation
+**Architecting Production-Grade AI Systems**
 
-## 📊 Progress Tracker
-**Current Status:** Week 04 / 36  
-[▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 8% Completed
+This repository is a rigorous, commit-by-commit documentation of my transition from core programming logic to advanced Machine Learning architecture. It tracks my execution through a 36-week intensive engineering curriculum, optimized for deep tech research and enterprise scalability. 
 
-- **Next Milestone:** Week 10 (Completion of Advanced Python & Logic)
-- **Update Frequency:** Weekly (Every Sunday)
-
-## 📜 Course Curriculum
-You can find the detailed 36-week syllabus here:  
-👉 [Download Course Curriculum PDF](./CampusX_DSMP_Syllabus.pdf)
-
-## 📂 Learning Roadmap
-### Phase 1: Python & Logic (Weeks 1-4)
-- [x] **Week 1:** Basics of Python (Output, Variables, Types, Loops)
-- [x] **Week 2:** Functions & Modules
-- [/] **Week 3:** String Operations & Session 10 (In Progress)
-- [ ] **Week 4:** Data Structures (Lists, Tuples, Sets, Dictionaries)
-
-### Phase 2: Math & Data Analysis (Weeks 5-15)
-- [ ] Linear Algebra & Calculus for ML
-- [ ] NumPy, Pandas, and Matplotlib
-- [ ] Exploratory Data Analysis (EDA)
-
-### Phase 3: Machine Learning (Weeks 16-36)
-- [ ] Supervised & Unsupervised Learning
-- [ ] Deep Learning & NLP
-- [ ] Capstone Projects
-
-## 🚀 Daily Routine
-- 4 Hours of deep study and coding.
-- Weekly commits to document new concepts.
-- Building modular Python scripts for every session.
+## 📊 Velocity & Execution Tracker
+**Current Milestone:** Week 03 (Object-Oriented Architecture)
+**Execution Pace:** 2x Accelerated Track
+**Primary Objective:** Develop memory-efficient, mathematically grounded, and production-ready ML infrastructure.
 
 ---
-*Building toward elite ML Engineering. Follow the journey on YouTube: [AI with Sudarshan]*
+
+## 🏗️ System Architecture & Implementation Log
+
+### Phase 1: Algorithmic Logic & Core Architecture (Weeks 1-4)
+
+**Week 1: Algorithmic Logic & Control Flow**[cite: 2]
+Focuses on strict data typing, algorithmic time complexity, and loop-based logic structures[cite: 2].
+*   **Implementations (`/WEEK_01`):** 
+    *   `mini_projects/smart_to_do.py` & `tip_calci.py`: Core logic implementations leveraging O(1) list operations.
+    *   `week1_projects/monster_arena.py`: State-based control flow execution.
+*   **Documentation:** Comprehensive notes on time complexity and string operations[cite: 2].
+
+**Week 2: Advanced Data Structures & Functional Programming**[cite: 2]
+Focuses on mapping complex data relationships using hashed structures (Dictionaries/Sets) and modular programming via custom functions[cite: 2].
+*   **Implementations (`/WEEK_02`):**
+    *   `SESSION_06/task-management-system.py`: State and memory management using advanced data structures.
+    *   `week_2_projects/data_analyse.py`: Modular data processing scripts utilizing `*args`/`**kwargs`[cite: 2].
+    *   `SESSION_05/` & `SESSION_06/`: Implementations of higher-order functions, lambda expressions, and scope management[cite: 2].
+
+**Week 3: Object-Oriented Architecture (OOP)**[cite: 2]
+Focuses on building modular, scalable systems using Encapsulation, Aggregation, Inheritance, and Polymorphism[cite: 2].
+*   **Implementations (`/WEEK_03`):**
+    *   `Abstraction/Payment_Processor.py` & `Notification_Engine.py`: Engineered abstract base classes to decouple interface from implementation[cite: 2].
+    *   `oop_project/main.py`: Full-scale aggregation and object relationship mapping[cite: 2].
+    *   `SESSION_08` & `SESSION_09`: Scripts demonstrating method overriding, constructor logic, and the utilization of static variables/methods[cite: 2].
+
+---
+
+## 🔬 Core Engineering Competencies Tested
+*   **Data Structures:** Lists, Tuples, Sets, Dictionaries (Memory mapping and retrieval speeds).
+*   **System Design:** OOP Paradigm, Polymorphic scaling, Abstract Base Classes.
+*   **Technical Readiness:** Dedicated `/INTERVIEW_QUES` directory containing algorithmic challenges and array-based problem-solving logs.
+
+---
+*Targeting core ML roles. Follow the engineering journey on YouTube: [MLcodeChakra]*
